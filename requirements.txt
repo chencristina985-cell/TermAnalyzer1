@@ -1,0 +1,3 @@
+python-docx
+pypdf
+pywin32; sys_platform == 'win32'
